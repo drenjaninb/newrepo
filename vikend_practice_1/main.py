@@ -13,3 +13,5 @@ class Mazda(Wagen):
 
 mazdacar = Mazda(3,2000,88,'soul red')
 print(mazdacar.start())
+
+print(mazdacar.shut_down())
